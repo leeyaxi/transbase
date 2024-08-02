@@ -1,1 +1,1 @@
-# joint ctc and attention decoder based transbase to basecall
+# a basecall toolkit based on joint ctc and attention decoder
